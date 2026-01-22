@@ -1,1 +1,2 @@
-No new features will be created.
+No new features created at this moment.
+This file will have some new features.
